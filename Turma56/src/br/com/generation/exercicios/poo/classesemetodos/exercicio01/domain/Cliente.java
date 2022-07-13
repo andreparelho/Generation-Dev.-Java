@@ -39,18 +39,18 @@ public class Cliente {
         this.cartaoBandeira = cartaoBandeira;
     }
     public static void pagamento() throws InterruptedException {
-        String pagamentoCliente = "Efetuando pagamento...";
+        String pagamentoCliente = "Efetuando pagamento";
         String aguarde = ".";
 
-        System.out.println(pagamentoCliente);
+        System.out.print(pagamentoCliente);
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println(aguarde);
+        for (int i = 0; i < 15; i++) {
+            System.out.print(aguarde);
             Thread.sleep(500);
         }
     }
     public static void compras() {
-        String compraSucess = "Compra efetuada com sucesso.";
+        String compraSucess = "Pagamento efetuado com sucesso.";
         System.out.println(compraSucess);
     }
 }
