@@ -1,4 +1,4 @@
-package br.com.generation.lacosderepeticao;
+package br.com.generation.exercicios.lacosderepeticao;
 
 public class exercicio01 {
     public static void main(String[] args) {

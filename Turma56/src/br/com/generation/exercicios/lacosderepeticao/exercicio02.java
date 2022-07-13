@@ -1,4 +1,4 @@
-package br.com.generation.lacosderepeticao;
+package br.com.generation.exercicios.lacosderepeticao;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class exercicio02 {
         int pares = 0, impares = 0, numero = 0;
         String mensagem = "Digite um numero: ", mensagemPar = "", mensagemImpar = "";
 
-        for (int i = 1; i <= 5 ; i++) {
+        for (int i = 0; i < 5 ; i++) {
             System.out.println(mensagem);
             numero = teclado.nextInt();
             if (numero % 2 == 0) {
@@ -19,7 +19,6 @@ public class exercicio02 {
                 mensagemImpar = "Numero impares: " + impares;
             }
         }
-        System.out.println(mensagemPar);
-        System.out.println(mensagemImpar);
+        System.out.println(mensagemPar + "\n" + mensagemImpar);
     }
 }
