@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe33685-e845-4503-bd76-4fb958b208a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/arrays/exercicio01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/arrays/exercicio02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/arrays/exercicio03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/arrays/exercicio04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/lacosderepeticao/exercicio01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/lacosderepeticao/exercicio02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/lacosderepeticao/exercicio03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/lacosderepeticao/exercicio04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/lacosderepeticao/exercicio05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/lacosderepeticao/exercicio06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/classesemetodos/exercicio01/domain/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/classesemetodos/exercicio01/test/TestCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/classesemetodos/exercicio02/domain/Aviao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/classesemetodos/exercicio02/test/AviaoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/domain/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/domain/AnimalInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/domain/Cachorro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/domain/Cavalo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/domain/Preguica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/test/ImprimeAnimais.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/herancapolimorfismo/exercicio01/test/TestAnimais.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/exercicios/poo/projeto/DiagnosticoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/lacoscondicionais/exercicio01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/lacoscondicionais/exercicio02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/lacoscondicionais/exercicio03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Turma56/br/com/generation/lacoscondicionais/exercicio04.class" beforeDir="false" />
-    </list>
+    <list default="true" id="fbe33685-e845-4503-bd76-4fb958b208a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Turma56" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,15 +29,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowRun.ShowToolbar": "false",
-    "last_opened_file_path": "C:/Users/parel/IdeaProjects",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/parel/OneDrive/Área de Trabalho/Turma56Aula0809/Turma56Aula09&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ImprimeAnimais">
     <configuration name="AviaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generation.exercicios.poo.classesemetodos.exercicio02.test.AviaoTest" />
